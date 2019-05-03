@@ -1,0 +1,11 @@
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\bin\Debug\netcoreapp2.2\Backtraking_Problems.deps.json
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\bin\Debug\netcoreapp2.2\Backtraking_Problems.runtimeconfig.json
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\bin\Debug\netcoreapp2.2\Backtraking_Problems.runtimeconfig.dev.json
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\bin\Debug\netcoreapp2.2\Backtraking_Problems.dll
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\bin\Debug\netcoreapp2.2\Backtraking_Problems.pdb
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\obj\Debug\netcoreapp2.2\Backtraking_Problems.csprojAssemblyReference.cache
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\obj\Debug\netcoreapp2.2\Backtraking_Problems.csproj.CoreCompileInputs.cache
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\obj\Debug\netcoreapp2.2\Backtraking_Problems.AssemblyInfoInputs.cache
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\obj\Debug\netcoreapp2.2\Backtraking_Problems.AssemblyInfo.cs
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\obj\Debug\netcoreapp2.2\Backtraking_Problems.dll
+C:\Users\AAAAARIC\Source\Personal\ThoughtWorks\Backtracking\Backtraking_Problems\Backtraking_Problems\obj\Debug\netcoreapp2.2\Backtraking_Problems.pdb
